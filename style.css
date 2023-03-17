@@ -1,0 +1,54 @@
+body{
+     background-image:url("back.jpg");
+     background-size: cover;
+}
+#heading{
+text-shadow: 5px 5px 3px rgb(226, 219, 31);
+color: dodgerblue;
+box-shadow: 20px 20px 20px 10px grey;
+width: 503px;
+border-radius: 15px;
+}
+
+#copyright{
+     background-color: black;
+     color: cyan;
+     text-align: center;
+     font-size: 20px;
+     line-height: 2;
+     position: fixed;
+     width: 100%;
+     bottom:0
+     
+}
+#start{
+width: 90px;
+height: 40px;
+background-color: lightsteelblue;
+border-radius: 20%;
+font-size: 20px;
+color: blueviolet;
+
+}
+
+#unid{
+     color: rgb(113, 211, 200);
+}
+
+canvas{
+     border-radius:25%;
+     border:2px double grey;
+     margin-top: 180px;
+     
+     
+}
+#status{
+     color: rgb(157, 233, 207);
+}
+
+input{
+background-color: rgb(58, 202, 202);
+border-radius: 20%;
+font-size: 20px;
+color: rgb(226, 43, 43);
+}
